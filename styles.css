@@ -190,7 +190,8 @@ body{
   width: 120px;
   margin-bottom: 20px ;
 }
-.footer-box, .fa{
+
+.footer-box .fa{
   margin-right: 8px;
   font-size: 25px;
   height: 40px;
@@ -221,5 +222,6 @@ hr{
 }
 .copyright{
   margin-bottom:0;
-  
+  padding-bottom: 20px;
+  text-align: center;
 }
